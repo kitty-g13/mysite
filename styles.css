@@ -13,14 +13,19 @@ h1 {
   font-size: 64px;
 }
 h2 {
+  margin: 10px auto 0 auto;
   color: #39A6A3;
   font-size: 32px;
 }
 h3 {
+  margin: 10px auto 0 auto;
   color: #39A6A3;
   font-family: Average-sans,sans-serif;
   font-size: 16px;
   font-weight: normal;
+}
+p {
+  font-size: 16px;
 }
 .top {
   background-color: #000000;
@@ -34,12 +39,12 @@ hr {
 }
 
 .pic1 {
-  width:250px;
+  width:220px;
   position: absolute;
   right: 0;
 }
 .pic2 {
-  width:250px;
+  width:220px;
   position: absolute;
   left: 0;
 }
