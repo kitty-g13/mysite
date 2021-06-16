@@ -10,7 +10,7 @@ h1 {
   margin: 10px auto 0 auto;
   color: #39A6A3;
   font-family: 'Sacramento', cursive;
-  font-size: 4rem;
+  font-size: 64px;
 }
 h2 {
   color: #39A6A3;
@@ -18,7 +18,7 @@ h2 {
 h3 {
   color: #39A6A3;
   font-family: Average-sans,sans-serif;
-  font-size: 1rem;
+  font-size: 16px;
   font-weight: normal;
 }
 .top {
