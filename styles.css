@@ -10,26 +10,26 @@ h1 {
   margin: 10px auto 0 auto;
   color: #39A6A3;
   font-family: 'Sacramento', cursive;
-  font-size: 64px;
+  font-size: 4rem;
 }
 h2 {
   margin: 10px auto 0 auto;
   color: #39A6A3;
-  font-size: 32px;
+  font-size: 2rem;
 }
 h3 {
   margin: 10px auto 0 auto;
   color: #39A6A3;
   font-family: Average-sans,sans-serif;
-  font-size: 16px;
+  font-size: 1rem;
   font-weight: normal;
 }
 p {
-  font-size: 16px;
+  font-size: 1rem;
 }
 .top {
   background-color: #000000;
-  padding: 85px;
+  padding: 5.3rem;
 }
 hr {
   border-style: dotted none none;
